@@ -2,13 +2,9 @@
 
 *[Editoris praefatio: Iohannes Huemer, 1886]*
 
----
-
 Cum ante hos quattuor annos de Virgilio Marone grammatico fusius agerem, de edendis his operibus nondum cogitavi. Haerebam enim, num hoc grammaticorum infimae aetatis studium tanti ubique aestimaretur quanti equidem haberem. Non deerant tamen qui mecum hac in re facerent; in his erat rei metricae investigator longe praestantissimus, Guilelmus Meyer, qui eodem fere tempore in libello illo satis claro *Der Ludus de Antichristo* (Monaci 1882) de Virgilio artis rhythmicae doctore multa cum laude tractavit. Cum alii viri docti in una Ang. Mai editione neque integra neque emendata nitentes Virgilii praecepta grammatica eiusque genus dicendi satis tricosum examinarent et nova editio iterum iterumque desideraretur, amicis adhortantibus non amplius repugnavi, quin ad opera grammatici illius diu multumque neglecti edenda accederem, quamquam me opus plenum periculosae aleae esse subiturum habebam persuasum.
 
 Ad emendanda Virgilii opuscula auxiliis usus sum eis, de quibus in commentatione supra laudata tractavi; accesserunt forte fortuna fragmenta quaedam vel excerpta codicum Virgilianorum. Denique fontes novos alios esse patefacturos confidenter spero.
-
----
 
 ## Codices
 
@@ -28,8 +24,6 @@ Scriptus est codex manibus variis atque scripturae Casinensi quam dicunt non abs
 
 Ad librum Neapolitanum primus et solus Virgilii epistolas integras, epitomas autem decurtatas edidit Ang. Maius, in tomo V. classicorum auctorum p. 1–149. Vir doctissimus cum libro Neapolitano denuo examinato editionem alteram eamque castigatam esset paraturus, morte abreptus est. Pars operis incepti neque absoluti recepta est in appendicem ad opera edita ab A. Maio p. 113–166, qui liber prodiit Romae anno 1871. Codicem in meum usum contulit G. Meyncke; locos quosdam A. Goldmann a me rogatus iterum inspexit.
 
----
-
 ## Fragmenta
 
 **V** Folia quinque codicis quondam Salisburgensis (nr. 164) in fragmentum Vindobonense 19556 nunc sunt redacta, de quibus cum in commentatione saepius memorata fusius tractaverim, agere hic supersedeo. Codex deperditus maximam partem scriptus erat s. IX.
@@ -46,13 +40,9 @@ Eodem modo compositus est tractatus de adverbio, qui in codice **Leidensi** (Vos
 
 Virgilii testimonia ex arte codicis **Bernensis 123** s. X ex multis auctoribus collecta in unum congessit Hermannus Hagenus in libro illo qui inscribitur *Anecdota Helvetica*, Grammaticorum latinorum tom. VII p. 189–201 hoc titulo: Virgilii grammatici excerpta partim inedita.
 
----
-
 ## De auctoritate Virgilii
 
 Quanta auctoritate Virgilius grammaticus aevo Carolino quod dicimus et postea fuerit, ex grammaticorum illorum temporum praestantissimorum libris colliges. Citaverunt autem nostrum **Beda Venerabilis**, **Petrus**, **Clemens cognomine Scotus** (cuius artem grammaticam ex codice Bambergensi M. V. 18 cognovi), **Cruindmelus**, anonymus auctor artis Bernensis (cf. Hagen. l. c. p. 62 s.), quibus accedent fortasse alii litteris aevi Carolini in lucem productis.
-
----
 
 ## De archetypo
 
@@ -62,13 +52,9 @@ Atque archetypum illud litteris scotticis scriptum fuerit necesse est, cum *fl* 
 
 Praecedit Parisinus ut aetate ita etiam auctoritate Neapolitanum, inter quos medium quendam locum Salisburgensis (nunc Vind.) obtinuisse putandus est, cum compluribus locis cum P, aliis quibusdam cum N faciat. At libri Parisini praestantia, quam editionis nostrae quaevis fere pagina evincit, non ita est comparata, ut cetera subsidia critica praetermittere possis. Immo ad detegendos errores lingua vulgari natos, quibus Parisinus vel maxime scatet, multum auxilii adtulerunt reliqui. Grammaticorum autem testimonia, quotquot congessi textuique subieci, perraro locis emendandis usui fuerunt (cf. 116, 7; 157, 6). Hauserunt ii quidem ex fontibus non multum depravatis, at omiserunt quae utpote a sermone usitato remota non satis perspexissent aut quae ad illustrandas quaestiones in examen vocatas non apta vel necessaria essent. Nonnunquam etiam e memoria Virgilii verbis usi esse videntur, ut testimonio investigando frustra des operam.
 
----
-
 ## De ordine epitomarum
 
 Restat ut de epitomarum ordine, quem in hac editione institui, et de ratione rei orthographicae pauca adferam. Virgilium ter quinas epitomas confecisse verbis auctoris ipsius apparet. Dicit enim p. 121, 8 *...ego ipse in epitomis ter quinis numero proprium pronomini indixerim opusculum*. Praeterea inscriptio cod. Parisini hunc eundem numerum servavit, cf. p. 1 MARONIS VIRGILII ORIVNTVR AEPITHOMAE XV. Atque priorum capitum ordinem facile ex librorum manuscriptorum inscriptionibus subscriptionibusve constituas ita: I. DE SAPIENTIA (P, N in marg.), II. DE LITTERA (cf. subscr. cod. Vind.), III. DE SYLLABA (?), IV. DE METRIS (N), V. DE NOMINE (?). Capitulum autem de catalogo grammaticorum quod in N numerum V (fortasse ex XV depravatum) prae se fert, epitomarum opus clausisse cum ex auctoris verbis in fine capitis positis p. 92: *Haec vobis o sodales atque discentes, legum paternarum libris pro cunctorum utilitate atque salute excepta insinuasse sufficiat* tum ex subscriptione codicis Neapolitani: *Explicit Maronis Virgilii* recte colligimus. Epitomas XIV. et XIII., cui auctor ipse hoc nomen inscripsit, ex auctoritate cod. N cum epitoma ultima coniunxi. Quae inter capita priora et posteriora intersunt, cum libri non satis certa tradant, ex coniectura alterum Virgilii opus Donatique principis grammaticorum artem exempla secutus disposui ita, ut numerum ter quinarum epitomarum complerem.
-
----
 
 ## De re orthographica
 
@@ -77,8 +63,6 @@ De re orthographica, qualem instituerem, multum diuque haesitavi, cum neque codi
 Denique si editionem A. Mai de Virgilio grammatico multum meriti cum hac nostra contenderis, quot et quanta emendaverim vel emendare voluerim cognosces, quamquam non pauca supersunt, quae emendatoris auxilio indigeant, ut hac editione Virgilii grammatici studium magis incohatum sit quam ad finem perductum. Quae cum ita sint, multos me esse habiturum emendatores, castigatorem nullum animo firmo sperare audeo.
 
 Postremo restat ut gratias agam maximas viris doctis quos libros manuscriptos in meum usum vel exarasse vel a me rogatos inspexisse supra memini, singulares autem ac plurimas Guilelmo de Hartel, ex magistro studiorum meorum fautori benevolentissimo, qui in opere hoc perdifficili me plurimum adiuvit et locis multis iisque perobscuris attulit lucem.
-
----
 
 Dabam Vindobonae mense Octobri a. 1886.
 

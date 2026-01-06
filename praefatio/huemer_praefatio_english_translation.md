@@ -2,13 +2,9 @@
 
 *[Editor's Preface: Johannes Huemer, 1886]*
 
----
-
 When four years ago I treated Virgilius Maro the grammarian at greater length, I had not yet thought about publishing these works. For I was uncertain whether this study of grammarians of the lowest age would be valued everywhere as highly as I myself valued it. Nevertheless, there were those who agreed with me in this matter; among them was that most outstanding investigator of metrical matters, Wilhelm Meyer, who at about the same time in that rather famous little book *Der Ludus de Antichristo* (Munich 1882) treated Virgilius as a teacher of rhythmical art with much praise. When other learned men, relying on the single edition of Angelo Mai—neither complete nor corrected—examined the grammatical precepts of Virgilius and his rather thorny manner of speaking, and a new edition was repeatedly desired, I no longer resisted the urging of friends to undertake the publication of the works of that grammarian long and greatly neglected, although I was convinced that I would be undertaking a work full of perilous risk.
 
 For correcting Virgilius's little works I used those aids which I discussed in the commentary praised above; by good fortune certain fragments or excerpts from Virgilian codices were added. Finally, I confidently hope that others will bring new sources to light.
-
----
 
 ## Codices
 
@@ -28,8 +24,6 @@ The codex was written by various hands and in a manner not unlike what they call
 
 From the Neapolitan book, Angelo Mai first and alone published the complete letters of Virgilius, but the *Epitomae* in shortened form, in volume V of the *Classici Auctores* p. 1–149. That most learned man, when he was about to prepare a second and corrected edition after examining the Neapolitan book anew, was snatched away by death. Part of the work begun but not finished was received into the appendix to the works published by A. Mai p. 113–166, which book appeared at Rome in the year 1871. G. Meyncke collated the codex for my use; A. Goldmann, at my request, inspected certain passages again.
 
----
-
 ## Fragments
 
 **V** Five folios of the codex once at Salzburg (nr. 164) have now been reduced to the Vienna fragment 19556, about which, since I have treated more fully in the commentary mentioned several times, I forbear to discuss here. The lost codex was for the most part written in the ninth century.
@@ -46,13 +40,9 @@ Composed in the same manner is the treatise on the adverb, which exists in the *
 
 Hermann Hagen gathered the testimonies of Virgilius from the art of codex **Bern 123**, tenth century, collected from many authors into one, in that book which is entitled *Anecdota Helvetica*, *Grammaticorum latinorum* vol. VII p. 189–201, with this title: Excerpts of Virgilius the grammarian, partly unpublished.
 
----
-
 ## On the Authority of Virgilius
 
 How great an authority Virgilius the grammarian was in the Carolingian age as they call it and afterward, you will gather from the books of the most outstanding grammarians of those times. Our author was cited by **Bede the Venerable**, **Peter**, **Clement surnamed Scotus** (whose grammatical art I learned from the Bamberg codex M. V. 18), **Cruindmelus**, the anonymous author of the Bern art (cf. Hagen l. c. p. 62 ff.), to whom will perhaps be added others when the literature of the Carolingian age is brought to light.
-
----
 
 ## On the Archetype
 
@@ -62,13 +52,9 @@ And that archetype must have been written in Insular letters, since *fl* and *m*
 
 The Parisian codex precedes the Neapolitan in authority as in age, between which the Salzburg codex (now Vienna) must be thought to have held a certain middle place, since in several places it agrees with P, in certain others with N. But the excellence of the Parisian book, which almost every page of our edition demonstrates, is not such that you can neglect the other critical aids. Indeed, the others have brought much assistance for detecting errors born from vulgar language, with which the Parisian codex especially teems. But the testimonies of the grammarians, as many as I have gathered and placed below the text, have very rarely been useful for emending passages (cf. 116, 7; 157, 6). They drew indeed from sources not much corrupted, but they omitted what they did not sufficiently understand as being remote from usual speech, or what was not suitable or necessary for illustrating the questions being examined. Sometimes they also seem to have used Virgilius's words from memory, so that you labor in vain to investigate the testimony.
 
----
-
 ## On the Order of the Epitomae
 
 It remains for me to add a few words about the order of the *Epitomae*, which I have established in this edition, and about the treatment of orthography. That Virgilius composed three times five *Epitomae* is clear from the author's own words. For he says at p. 121, 8 *...ego ipse in epitomis ter quinis numero proprium pronomini indixerim opusculum* ("I myself in the three times five *Epitomae* have assigned a proper treatise to the pronoun by number"). Moreover, the inscription of the Parisian codex has preserved this same number, cf. p. 1 MARONIS VIRGILII ORIVNTVR AEPITHOMAE XV. And you may easily establish the order of the earlier chapters from the inscriptions or subscriptions of the manuscripts thus: I. DE SAPIENTIA (P, N in margin), II. DE LITTERA (cf. subscription of Vienna codex), III. DE SYLLABA (?), IV. DE METRIS (N), V. DE NOMINE (?). But the chapter on the catalog of grammarians, which in N bears the number V (perhaps corrupted from XV), closed the work of the *Epitomae*, as we rightly gather both from the author's words placed at the end of the chapter p. 92: *Haec vobis o sodales atque discentes, legum paternarum libris pro cunctorum utilitate atque salute excepta insinuasse sufficiat* ("Let it suffice to have suggested these things to you, O companions and students, excerpted from the books of paternal laws, for the utility and salvation of all"), and from the subscription of the Neapolitan codex: *Explicit Maronis Virgilii*. *Epitomae* XIV and XIII, to which the author himself gave this name, I have joined with the final *Epitoma* on the authority of codex N. What comes between the earlier and later chapters, since the books do not hand down anything sufficiently certain, I have arranged by conjecture following the example of Virgilius's other work and the art of Donatus, prince of grammarians, so as to complete the number of three times five *Epitomae*.
-
----
 
 ## On Orthography
 
@@ -77,8 +63,6 @@ About orthography, what kind I should establish, I hesitated much and long, sinc
 Finally, if you compare the edition of A. Mai, who deserved much from Virgilius the grammarian, with this one of ours, you will recognize how much and how many things I have corrected or wished to correct, although not a few things remain which need the help of an emender, so that by this edition the study of Virgilius the grammarian is begun rather than brought to completion. Since this is so, I venture to hope with firm mind that I will have many emenders, but no critic.
 
 Lastly, it remains for me to give the greatest thanks to the learned men whom I have mentioned above as having either copied manuscripts for my use or inspected them at my request, but singular and very many thanks to Wilhelm von Hartel, from being my teacher the most benevolent patron of my studies, who helped me very much in this very difficult work and brought light to many and very obscure passages.
-
----
 
 Given at Vienna in the month of October, 1886.
 

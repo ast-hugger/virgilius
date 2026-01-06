@@ -36,14 +36,14 @@ Virgilius Assianus, a certain firstborn at Cappadocia, was a most sweet man, qui
 
 When I asked him whether this wind was ruled by its own command or another's, taking up a little page he composed four poetic verses, speaking thus:
 
-> *summa in summis,*
-> *potens caelis,*
-> *celsaque cuncta*
+> *summa in summis,*<br>
+> *potens caelis,*<br>
+> *celsaque cuncta*<br>
 > *gubernat celsa.*
 
-> In the highest heights,
-> powerful in the heavens,
-> and all lofty things
+> In the highest heights,<br>
+> powerful in the heavens,<br>
+> and all lofty things<br>
 > the Lofty One governs.
 
 That is, the God of the Hebrews.

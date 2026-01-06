@@ -4,56 +4,56 @@ The composition of meters is indeed manifold; for not all verses look to the sam
 
 Prose verses are characterized by brevity, as is read in Aeneas:
 
-> *Phoebus surgit, caelum scandit,*
+> *Phoebus surgit, caelum scandit,*<br>
 > *polo claret, cunctis paret.*
 
-> [Phoebus rises, climbs the sky,
+> [Phoebus rises, climbs the sky,<br>
 > shines at the pole, appears to all.]
 
 These two verses have eight meters, for the first meter is *Phoebus*, the second *surgit*, and so on through the remaining words; and thus these two together are supported by sixteen feet. All prose verses, moreover, are customarily produced in spondees. This also should be known: that among all feet, the dactyl and spondee hold the principate.
 
 It is the nature of middle-length verses to be neither prose nor lined, which is customary more for the modulation of songs than from regard for reason, as Varro sings:
 
-> *festa dium sollemnia*
-> *pupla per canam conpita,*
-> *quorum fistilla modela*
+> *festa dium sollemnia*<br>
+> *pupla per canam conpita,*<br>
+> *quorum fistilla modela*<br>
 > *poli persultant sidera.*
 
-> [The solemn festivals of the gods,
-> public through the hoary crossroads,
-> whose little pipe-tunes
+> [The solemn festivals of the gods,<br>
+> public through the hoary crossroads,<br>
+> whose little pipe-tunes<br>
 > make the stars of heaven leap.]
 
 Now measure these by meters: the first verse has three meters, of which the first is measured by a spondee and the two following by dactyls—thus *festa* (I), *dium sol-* (II), *-lemnia* (III)—and so through the four verses weighed in equal balance you will find twice six meters and thirty-two feet.
 
 But lined verses should always be measured in five meters, according to that passage of Cato, the most elegant orator:
 
-> *bella consurgunt poli praesentis sub fine,*
-> *precae temnuntur senum suetae doctrinae.*
-> *regis dolosi fouent dolosos tyrannos,*
+> *bella consurgunt poli praesentis sub fine,*<br>
+> *precae temnuntur senum suetae doctrinae.*<br>
+> *regis dolosi fouent dolosos tyrannos,*<br>
 > *dium cultura molos neglecta per annos.*
 
-> [Wars arise beneath the end of the present heaven,
-> the accustomed teachings of elders are despised as prayers.
-> Treacherous kings foster treacherous tyrants,
+> [Wars arise beneath the end of the present heaven,<br>
+> the accustomed teachings of elders are despised as prayers.<br>
+> Treacherous kings foster treacherous tyrants,<br>
 > the worship of the gods neglected through many years.]
 
 In these verses the first foot is a spondee and the third likewise a spondee; the remaining three are dactyls, which have fifty-two feet.
 
 Extended verses, however, reach through an ornate but irrational circuit nearly up to twelve meters, according to Lupus the Christian speaking thus:
 
-> *ueritas uera,*
-> *aequitas aequa,*
-> *largitas lauta,*
-> *fiditas fida*
-> *diurnos dies tranquilla*
+> *ueritas uera,*<br>
+> *aequitas aequa,*<br>
+> *largitas lauta,*<br>
+> *fiditas fida*<br>
+> *diurnos dies tranquilla*<br>
 > *tenent tempora.*
 
-> [True truth,
-> just justice,
-> splendid generosity,
-> faithful faith—
-> tranquil times
+> [True truth,<br>
+> just justice,<br>
+> splendid generosity,<br>
+> faithful faith—<br>
+> tranquil times<br>
 > hold the daily days.]
 
 For this verse, even more than usual, holds thirteen meters through a necessary addition of words, as I believe, and has thirty-three feet.
@@ -62,18 +62,18 @@ There are also those who add three-footed and four-footed verses, which indeed s
 
 Don, the brother of my student Donatus, composed a song of two verses in praise of Arca, king of the Arcadians, saying:
 
-> *Archadius rex terrificus,*
+> *Archadius rex terrificus,*<br>
 > *laudabilis laude dignissimus.*
 
-> [Arcadius the terrifying king,
+> [Arcadius the terrifying king,<br>
 > praiseworthy, most worthy of praise.]
 
 And Gergesus in his commentaries, which he published in seven thick volumes on the sun, moon, stars, and especially the rainbow, very often used four-footed verses, of which I shall use just one placed at the beginning for the sake of example. For he says:
 
-> *sol maximus mundi lucifer*
+> *sol maximus mundi lucifer*<br>
 > *omnia aera inlustrat pariter.*
 
-> [The sun, greatest light-bearer of the world,
+> [The sun, greatest light-bearer of the world,<br>
 > illuminates all the air equally.]
 
 Since these arrangements of verses were set forth not for certain authority but to demonstrate the varieties of poetic songs, it is not necessary for me to investigate them, especially since anyone who wishes to weigh them can do so most easily.
@@ -84,18 +84,18 @@ This diversity was discovered chiefly for the distinction of similar words, lest
 
 Just as also certain kinds of songs, which although they seem extraordinary, are nevertheless always employed by orators and wit-masters (*leporici*) according to the enticement of pleasures—such are *cantamenta* and *cantatellae*, which Sagillius the German and Vitellius especially use. And the former indeed, in a little book written about the sea and moon, immediately inserted a *cantamentum* in the proem, saying:
 
-> *mare et luna concurrunt una*
+> *mare et luna concurrunt una*<br>
 > *uice altante temporum gande.*
 
-> [Sea and moon run together as one,
+> [Sea and moon run together as one,<br>
 > alternating in the course of the seasons.]
 
 The latter, however, in praise of Matrona his wife, introduced a rather charming *cantatella*, beginning thus in a certain work:
 
-> *mea, mea Matrona, tuum amplector soma,*
+> *mea, mea Matrona, tuum amplector soma,*<br>
 > *nobis anima una heret aquae arctura.*
 
-> [My own, my Matrona, I embrace your body,
+> [My own, my Matrona, I embrace your body,<br>
 > one soul clings to us like water's constraint.]
 
 And since a little mention has been made of orators and wit-masters, and the discourse has progressed to meters and songs, it seems fitting to me that I should at some point make mention of the kinds of philosophy. Philosophy is the love and pursuit of wisdom, which is the fount and mother of every art and discipline; hence anyone who pursues wisdom with pure love and intent care in any part, whether celestial or terrestrial, is rightly to be called a philosopher. The arts of our philosophy are many, and their principal studies are: poetry, rhetoric, grammar, *leporia*, dialectic, geometry, and so forth, which aim not so much at emulation as at curiosity.

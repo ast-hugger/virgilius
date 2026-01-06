@@ -4,36 +4,36 @@ Metrorum quidem conpositio multifaria est; non enim ad eundem ordinem naturam nu
 
 **Prosa** quidem sunt per breuitatem, sicut in Aenea lectum est:
 
-> Phoebus surgit, caelum scandit,
+> Phoebus surgit, caelum scandit,<br>
 > polo claret, cunctis paret.
 
 Hii duo uersus octo metra habent, primum enim metrum *Phoebus* est, secundum *surgit* et sic per cetera fona; et ita hii duo collecti sedecim pedibus fulciuntur. Omnes autem prosi uersus per spondeum edi solent. Hoc autem sciendum est, quod inter omnes pedes dactylus et spondeus principatum habeant.
 
 **Mederiorum** uersuum est nec prosos nec liniatos fieri, quod magis pro cantuum modulatu quam rationis respectu consuetum est Varrone canente:
 
-> festa dium sollemnia
-> pupla per canam conpita,
-> quorum fistilla modela
-> poli persultant sidera.
+> festa dium sollemnia<br>
+> pupla per canam conpita,<br>
+> quorum fistilla modela<br>
+> poli persultant sidera.<br>
 
 Nunc metire per metra: primus uersus est trium metrorum, quorum primum per spondeum et duo sequentia per dactylos ponderantur, ut *festa* I, *dium sol* II, *lemnia* III et sic per IIII uersus pari lance pensatos bis sena repperies metra et pedes II trigenti.
 
 At **liniati** uersus quinque semper metris metiri debent secundum illud Catonis eligantissimi rhetoris:
 
-> bella consurgunt poli praesentis sub fine,
-> precae temnuntur senum suetae doctrinae.
-> regis dolosi fouent dolosos tyrannos,
-> dium cultura molos neglecta per annos.
+> bella consurgunt poli praesentis sub fine,<br>
+> precae temnuntur senum suetae doctrinae.<br>
+> regis dolosi fouent dolosos tyrannos,<br>
+> dium cultura molos neglecta per annos.<br>
 
 In hiis uersibus primum spondeus et tertium itidem spondeus, reliqua trea dactyli sunt, qui pedes habent LII.
 
 **Perextensi** autem uersus ornato quidem sed inrationabili circuitu pene per usque ad XII metra perueniunt secundum Lupi cristiani ita affantis:
 
-> ueritas uera,
-> aequitas aequa,
-> largitas lauta,
-> fiditas fida
-> diurnos dies tranquilla
+> ueritas uera,<br>
+> aequitas aequa,<br>
+> largitas lauta,<br>
+> fiditas fida<br>
+> diurnos dies tranquilla<br>
 > tenent tempora.
 
 Nam hic uersus, et hoc plus solito, necessaria ut credo uerbi adiectione XIII metra tenet, cuius pedes sunt XXXIII.
@@ -42,13 +42,13 @@ Sunt autem qui adiciunt **trifonos** et **quadrifonos** uersus, quibus quidem no
 
 Don quidem discentis mei Donati germanus frater, duum uersuum canticum in laude Arcae, regis Archadum, possuit dicens:
 
-> Archadius rex terrificus,
-> laudabilis laude dignissimus.
+> Archadius rex terrificus,<br>
+> laudabilis laude dignissimus.<br>
 
 Gergesusque in commentariis suis, quos de sole luna astris et praecipue caeli arcu septem uienti uoluminibus edidit, quadrifonis persepe usus est uersibus, quorum unum tantum in principio possito exempli et ego gratia utar. Dicit enim:
 
-> sol maximus mundi lucifer
-> omnia aera inlustrat pariter.
+> sol maximus mundi lucifer<br>
+> omnia aera inlustrat pariter.<br>
 
 Horum ordines uersuum, quia non ad certam auctoritatem sed ad uarietates poeticorum cantuum manifestandas possiti sunt, indagari me necesse non est, praesertim cum omnis qui uoluerit eos pensare, facillime ualeat.
 
@@ -58,13 +58,13 @@ Maxime autem haec diuersitas ob similium fonorum discretionem repperta est, ne c
 
 Sicut etiam quaedam carminum genera, quae quamquam extraordinaria esse uideantur, tamen a rhetoribus ac leporicis secundum inlectum uolutatum sepiter usurpantur, ut sunt **cantamenta** et **cantatellae**, quibus uel maxime Sagillius germanus et Vitellius utuntur. Et ille quidem in libello de mare et luna scripto statim in prooemio cantamentum insuit dicens:
 
-> mare et luna concurrunt una
-> uice altante temporum gande.
+> mare et luna concurrunt una<br>
+> uice altante temporum gande.<br>
 
 Iste uero in laude Matronae uxoris suae cantatellam satis iocundam intulit, in quadam ita infiens:
 
-> mea, mea Matrona, tuum amplector soma,
-> nobis anima una heret aquae arctura.
+> mea, mea Matrona, tuum amplector soma,<br>
+> nobis anima una heret aquae arctura.<br>
 
 Et quoniam de rhetoribus et leporicis mentiuncula facta est et de metris atque carminibus sermo progressus est, uideatur mihi commodum esse, ut aliquando de filosofiae generibus memorem. **Filosofia** est amor et intentio sapientiae, quae fons et matrix est omnis artis ac disciplinae, unde et omnis qui in quacumque parte siue caelesti siue terrestri puro amore et intenta sollicitudine sapificat, filosofus dicendus est recte. Nostrae autem filosofiae artes sunt multae, quarum studia principalia sunt: **poema**, **rhetoria**, **grama**, **leporia**, **dialecta**, **geometria** et cetera, quae non tam emulitatem quam curiositatem praetendunt.
 

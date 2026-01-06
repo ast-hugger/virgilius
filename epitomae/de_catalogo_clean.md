@@ -36,10 +36,10 @@ Virgilius Assianus primogenus quidam apud Cappadociam, uir dulcissimus erat, in 
 
 Quem cum interrogassem utrumnam hic uentus propria dictione an aliena regeretur, assumens pagillam quattuor poeticos confecit uersus ita inquiens:
 
-> *Summa in summis,*
-> *potens caelis,*
-> *celsaque cuncta*
-> *gubernat celsa*—
+> *Summa in summis,*<br>
+> *potens caelis,*<br>
+> *celsaque cuncta*<br>
+> *gubernat celsa*—<br>
 
 id est Hebreorum deum.
 
