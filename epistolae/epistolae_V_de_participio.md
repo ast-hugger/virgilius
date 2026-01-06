@@ -1,5 +1,4 @@
-# VIRGILII MARONIS EPISTOLAE
-## V. DE PARTICIPIO
+# V. DE PARTICIPIO
 
 Dicturi de participio, de quo et a nobis et a plerisque doctoribus sermo frequens factus est, illud mei Aeneae in prohemio operis conmemorandum puto. Optimum etenim est et ualde peroptimum omnem discipulum in fine omnium scriptorum atque initio praeceptoris sui indeffessam facere mentionem, quem humanae disciplinae tertium sibi patrem uocant. Itaque Aeneas meus triplam participiorum adserit esse uirtutem, quod in libro de omnium artium uirtute scripto atque ordinatim degesto tali edidit modo: "Prima" inquit "uirtus participiorum, quod nomen et uerbum duas principales orationis partes obtinet. Secunda, quod sicut uerbum fuerit actiuum, eodem modo et ipsum agit. Tertia, quod si in fine testimoniorum positum fuerit, pro uerbo accipiatur; quod tamen non iugi consuetudine sed raro accidit." Haec Aeneas.
 

@@ -1,5 +1,4 @@
-# VIRGILII MARONIS EPISTOLAE
-## III. DE VERBO
+# III. DE VERBO
 
 Antequam ad uerbi explanationem manum mittimus, super qua re in epitomis pridem breuellas licet, uarias tamen addidimus, respondendum reor hiis, qui nos profano et canino ore latrant ac lacerant dicentes nos in omnibus artibus contradicos uideri nobis inuicem, cum id quod alius adfirmat, alius destruere uideatur; nescientes quod latinitas tanta sit et tam profunda, ut multimodis et uarifariis explicare sensibus necesse sit. Quis enim latinitatem sensatus putet tam angustam haberi tamque artatam, ut unumquodque uerbum uno tantum fario unoque sensu contentum esse uideatur, praesertim cum latinitatis ipsius genera duodecim numero habeantur, et unumquodque genus multas in sese conplectatur artes.
 
@@ -65,13 +64,13 @@ Uerum quare tempus quod ternum est et persona quae aeque terna esse animaduertit
 
 Illa autem ratio, ob quam quattuor uocales literas quasi praeiudicatoria auctoritate annumerabant, haec est, quod iste intuebilis mundus quattuor constat elimentis, terra scilicet igne aqua atque aere. Quod Plastus elegantissimo carmine disseruit dicens:
 
-> *Limo solubili,*
-> *lympha meabili,*
-> *igne ardibili,*
-> *aura mutabili,*
-> *mundus uisibilis*
-> *sumptus initiis,*
-> *cuius terribilis*
+> *Limo solubili,*<br>
+> *lympha meabili,*<br>
+> *igne ardibili,*<br>
+> *aura mutabili,*<br>
+> *mundus uisibilis*<br>
+> *sumptus initiis,*<br>
+> *cuius terribilis*<br>
 > *pendit fristities.*
 
 Secundum hanc itaque rationem, quam praedictus Chromas intulerit, in hac quoque annumeratione nostra, qua uerbum totum annumeramus, tempus et personam excipimus, ne si hiis acceptis octo et uienti species, ut est necesse, fuerint repertae, numerus typo uacet. Quamquam si tempus in quinque species diuidatur, adiunctis tribus personis octo species inueniantur; quas cum uienti duabus adiunxerimus, iuxta lunarem rationem XXX faciemus.

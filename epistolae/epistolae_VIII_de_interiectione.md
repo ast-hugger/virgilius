@@ -1,5 +1,4 @@
-# VIRGILII MARONIS EPISTOLAE
-## VIII. DE INTERIECTIONE
+# VIII. DE INTERIECTIONE
 
 Nunc de interiectione pauca dicamus. Interiectio est quidem pars orationis, sed tam inusitata, ut nisi quia a Graecis non adnumeratur, latina esse non putetur. In oratione autem, quae raro a nobis legitur, multae interiectiones sunt, earumque significationes copiosae sunt:
 

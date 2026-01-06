@@ -1,7 +1,4 @@
-# THE LETTERS OF VIRGILIUS MARO
-## IV. ON THE ADVERB
-
-### English Translation
+# IV. ON THE ADVERB
 
 Every city that is fortified and encircled does not surrender its citizens to enemies: so too a historical exposition, if it has been properly ordered correctly and rationally, will have no further occasion for criticism. Whence our teachers advise us that all arts—not only the principal ones, but also the intermediate and auxiliary—should be correctly established in their precepts. On account of which I also, since I have conveyed to you brief expositions concerning the noun and pronoun and verb through letters, will explain the lesser parts as well in briefer but proper letters, especially since in the *Epitomae* I made one small work concerning the four parts which remain, namely adverb, participle, conjunction, and preposition. If these have their own proper letters, something a little more ample will be conferred upon readers for understanding.
 
@@ -22,8 +19,6 @@ But adverbs which end in the syllable *-im* are not taken from one origin. For s
 What now? Because I think I have said enough somewhere about adverbs, the speech must be shortened; before whose end I must recall that saying of Aeneas, when I asked him whether adverbs can be compounded, just as the other parts of speech. Thus he responded to me: "Why do you ask me what is well-worn? For adverbs have two rules of composition; the first, which is understood according to the part from which it comes, as *edocte* [learnedly], *indocte* [unlearnedly], *insipienter* [unwisely], *inepte* [ineptly], *reprobate* [reprovingly], *appense* [weighingly]: the second, which is placed subjunctively in local adverbs; the cause of this will be when another local adverb has preceded in any writing. Then you say *ibidem* [in the same place], just as this custom is also found very often in pronouns, when with the person of anyone having been spoken before, in the continuing speech one says *idem* [the same] or *eadem* [the same]. There is also an adverb similar to the ablative case of a pronoun, as *illo* [there]: for we often say '*illo* exibimus' [we shall go out there], that is *illuc*. So also *quo* [whither], when we say '*quo* uadunt' [whither do they go]. But these adverbs are always mobile."
 
 Because with these things said, the above-mentioned Aeneas finished his speech, for me also writing this letter, here an end must be placed.
-
----
 
 ## Translator's Notes
 

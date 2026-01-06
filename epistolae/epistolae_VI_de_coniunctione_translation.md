@@ -1,7 +1,4 @@
-# THE LETTERS OF VIRGILIUS MARO
-## VI. ON THE CONJUNCTION
-
-### English Translation
+# VI. ON THE CONJUNCTION
 
 It seems to me, dearest son, that this part of speech which is called the conjunction is similar to certain joints or fastenings, by which whatever structures are to be bound are tied together, especially those of wooden frameworks. For in such a manner this particle conjoins and glues together words and sentences. The ancients enumerated its power as divided into five species, of which the first is the copulative, which properly speaking conjoins. Among copulative conjunctions, which are six in number—*et*, *ac*, *at*, *atque*, *ast*—the Greek *ce* is also taken up: for *ἔξτρεμε* among the Greeks is always placed for *et*. And this copulative is accustomed to be made of the subjunctive order among us at least: but in its own proper language it is often placed before. But by us it is applied subjunctively to the demonstrative or relative pronoun, which are monosyllabic, through the addition of that syllable as I think, as if you say *hicce*, *haecce*, *hocce*, *isce*, *eace*, *idce*. But it can also be subjoined to all cases of the aforementioned pronouns. But perhaps you say that the relative pronoun of feminine gender *ea* is not of one syllable, but of two; it is true indeed that *ea* is two syllables, but then this happens when any consonant follows the last vowel, as *eam*, *eas*, *eos* and so forth, so that one long letter weighed against two short ones, each makes a syllable; for two vowels alone can be reduced into one syllable: whence because *ea* is one syllable, it will not have been necessary for us to add *ce*. But *et* indeed consists of two letters *e* and *t*, but in conjunction they are written with one stroke and are spoken under one utterance. But in the verb of the third person, not *&*, but *et* ought to be written, as *uacet*, *sulcet*. They also err who write the aspirate *h* in the copulative *ac*, which is to be held in the pronoun alone, which receives this same letter through all cases, as *haec*, *huius*, *huic*, *hanc*, *ab hac*.
 
@@ -14,8 +11,6 @@ But causal conjunctions are those which have the cause of retracting and in some
 We ought to know this also, that all conjunctions are either prepositive or subjunctive or common. There are also those which are of no order. The prepositive are: *et*, *at*, *si*, *quoniam*, *ac*, *atque*, *porro*, *ceterum*, *ceros*. The subjunctive: *autem*, *uero*, *-que*, *scilicet* and so forth. The common: *ergo*, *ideo*, *itaque*, *idcirco*, *perhoc*, *proinde*, *epita*, *igitur*, *-que*. Those of no order are: *iterum*, *paulatim*, *saltim*, for they pertain not to the order of the expression, but to the quality of meaning.
 
 I could indeed treat of the conjunction somewhat more broadly, but because it has often been written both by us and by many, therefore having set down one expression which is to be judged useful for readers, we shall leave the rest untouched. If two conjunctions have been placed in one expression, that is a completive and a rational, they will be released from each other and the reason for no other sentence will be demanded, as: *quoniam ergo*, *quia igitur*, *ideo quia*, *unde quoniam*, *quoniam idcirco* and so forth. With these things said, an end must be placed on the letter.
-
----
 
 ## Translator's Notes
 

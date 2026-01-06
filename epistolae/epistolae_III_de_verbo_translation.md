@@ -1,7 +1,4 @@
-# THE LETTERS OF VIRGILIUS MARO
-## III. ON THE VERB
-
-### English Translation
+# III. ON THE VERB
 
 Before we put our hand to the explanation of the verb, a matter on which we have previously added small though varied treatments in the *Epitomae*, I think we must respond to those who bark and tear at us with profane and canine mouth, saying that we seem in all the arts to contradict ourselves mutually, since what one affirms, another seems to destroy—not knowing that Latinity is so great and so profound that it is necessary to explain it in manifold and various senses. For what sensible person would think Latinity to be held so narrow and so confined that each word seems content with only one manner and one sense, especially since there are held to be twelve kinds of Latinity itself in number, and each kind embraces many arts within itself?
 
@@ -67,22 +64,22 @@ But why tense, which is triple, and person, which is likewise observed to be tri
 
 That reasoning, however, on account of which they counted four vowel letters as if with prejudicial authority, is this: that this visible world consists of four elements, namely earth, fire, water, and air. Which Plastus set forth in a most elegant song saying:
 
-> *Limo solubili,*
-> *lympha meabili,*
-> *igne ardibili,*
-> *aura mutabili,*
-> *mundus uisibilis*
-> *sumptus initiis,*
-> *cuius terribilis*
+> *Limo solubili,*<br>
+> *lympha meabili,*<br>
+> *igne ardibili,*<br>
+> *aura mutabili,*<br>
+> *mundus uisibilis*<br>
+> *sumptus initiis,*<br>
+> *cuius terribilis*<br>
 > *pendit fristities.*
 
-> [From dissolvable mud,
-> from passable water,
-> from burnable fire,
-> from changeable air,
-> the visible world
-> took its beginnings,
-> whose terrible
+> [From dissolvable mud,<br>
+> from passable water,<br>
+> from burnable fire,<br>
+> from changeable air,<br>
+> the visible world<br>
+> took its beginnings,<br>
+> whose terrible<br>
 > ending hangs.]
 
 According to this reasoning, therefore, which the aforementioned Chromas brought forward, in this our *annumeratio* also, by which we count up the whole verb, we except tense and person, lest if these are accepted, twenty-eight species, as is necessary, should be found, and the number lack a type. Although if tense is divided into five species, with three persons added, eight species are found; which when we have added to twenty-two, according to lunar reasoning we shall make thirty.
@@ -102,8 +99,6 @@ Now let us come to the *indagatio* of the verb. The *indagatio* of the verb is u
 Now *praelatio* must be placed in its order. But what is *praelatio*, and how will it be understood without *postlatio*? *Praelatio*, therefore, consists in moods alone, when the indicative mood excels all others both in order and in force.
 
 Now with these things completed, let us explain the only thing that remains: *declinatio*, namely, which is ready and well-trodden even for all schoolboys, even children. But according to poets it must be declined through meters and not according to grammarians through prose. And that syllables may seem to increase, let us decline a monosyllabic verb expanded according to the promise in *indagatio*. A neuter verb monosyllabically in the said indicative mood: *flo flamus*, *flas flatis*, *flabam flabamus*, *flant flate*, *fla fletis*, *flemus flatote*, *flem flato*, *fles flebo*, *flauere flare*. And that a more spacious example may be rendered to other verbs (because those things which have been left aside concerning this verb both prosaists and versifiers will be able to measure), let us extend even to disyllables, which are measured thus: *laudo*, *laudamus*, *laudatis*, *laudas*, *laudabamus*, *lauda*, *laudaui*, *laudasti*, *laudaueramus*, *lauda*, *laudemus*, *laudate*, *laudes*, *laudare*, *laudabimus*, *laudabitis*, *laudatu iri*, *laudans*, *laudantis*, *laudanti*, *laudaueritis*. We ought to know that trisyllabic verbs cannot be weighed so easily through these verses except by cutting. And therefore because the end of the letter is near, let us pass on to tetrasyllables, which are declined thus: *intellego*, *intellegis*, *intellegamus*, *intellegit*, *intellegunt*, *intelleguntur*. Each versifier ought to know and note that each *fonum* is counted in verse and meter as long for doubtful short syllables. Now, as we promised, let us finish the epistolary speech.
-
----
 
 ## Translator's Notes
 

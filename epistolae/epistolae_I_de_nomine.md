@@ -1,5 +1,4 @@
-# VIRGILII MARONIS EPISTOLAE
-## I. DE NOMINE
+# I. DE NOMINE
 
 Primam, frater carissime, de arte nominis expositionem, quae prima est, edicturo, tuis petitionibus satisfacere cupienti uidetur mihi per cassus singillatim sermonem primitus esse faciendum. 
 

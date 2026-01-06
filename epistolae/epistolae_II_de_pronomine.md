@@ -1,5 +1,4 @@
-# VIRGILII MARONIS EPISTOLAE
-## II. DE PRONOMINE
+# II. DE PRONOMINE
 
 Nisi forsitan nostrum opus claudicare putaretur, si non etiam pronomini sua epistola fuisset reddita, et tibi desiderii tui aliqua portio subtrahi uideretur, uelim quidem de pronomine magis conticiscere quam aliquid dicere, praesertim cum tam multi de hac orationis parte multa et clara uel opuscula propria uel ceterorum operum loca haec eadem occupata descripserint, sed et ego ipse in epitomis ter quinis numero proprium pronomini indixerim opusculum. Uerumtamen ne in illud Glengi incedam, quod cuidam conflictum fugienti dicere fidenter ausus est "gurgo" inquit "fugax fambulo dignus est," pauca tibi tui negotii necessaria de pronomine profabulor.
 
@@ -21,9 +20,9 @@ Sunt qui putant pronomen *alius* genetiuum casum habere, quod putatiue potius qu
 
 Sunt pronomina de quibus ambigitur utrum pronomina an aduerbia intellegi debeant ut *eccum ellum*. Sunt pronomina quibus declinatio affectatiua uel commutatiua asseritur ut *cuius cui cuio*. Scio et *cuia cuiae* et *cuium cui*. Sed haec declinatio non ad auctoritatem refferenda est. Est etiam pronomen secundum utrumque numerum per quattuor cassus declinandum, duos scilicet nominatiuos cassus et singularem et pluralem, duos aeque accusatiuos ut *nostras nostrates*, *cuias cuiates*. Sed ut haec eadem ueracia esse exemplis adprobemus, Donatus in quodam carmine ita conposuit dicens:
 
-> *Nostras omnis familia,*
-> *nostrates quoque pecora*
-> *euadant inminentia*
+> *Nostras omnis familia,*<br>
+> *nostrates quoque pecora*<br>
+> *euadant inminentia*<br>
 > *hostilium pericula.*
 
 Gabritius quoque "*nostrates*" inquit "*salutate fratres, quia et nostrates uos undique salutant.*" Terrentius quoque in quarto dispositionum grammaticarum libro tale prohemium edidit: "*Cuias gens et cuiates populi litteris tam prompte dediti sunt quam Tusci, quorum natura fertur ab infantiae annis sapientiae studere soli et nihil aliud amare quam semper philosophare?*"

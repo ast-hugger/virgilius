@@ -1,7 +1,4 @@
-# THE LETTERS OF VIRGILIUS MARO
-## PREFACE
-
-### English Translation
+# PREFACE
 
 VIRGILIUS MARO TO JULIUS GERMANUS THE DEACON, GREETINGS.
 
@@ -18,8 +15,6 @@ Perhaps someone may wonder that in an unusual manner of letters I have composed 
 You have the *ogdoades*—the eight parts of speech—which I shall set forth in eight letters and send to you. It is yours, dearest brother, to help with your prayers unceasingly poured forth to the Lord, so that not only in the present work of discourse may He grant me opportunity—He who before all living things made man to speak rationally—but also in all my acts may He graciously bestow the measure of truth to be grasped and the rule of faith by which one ought to believe and beseech. This I do not doubt I shall obtain through your prayers, most holy minister of Christ: that you who in the one warfare of Christ hold the third grade of ecclesiastical dignity, may deign to entreat on behalf of my weakness that the unity of the divine substance co-eternally subsisting in three persons grant that I may obtain eternal mercy.
 
 Farewell. Grace be with you.
-
----
 
 ## Translator's Notes
 

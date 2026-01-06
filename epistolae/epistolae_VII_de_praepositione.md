@@ -1,5 +1,4 @@
-# VIRGILII MARONIS EPISTOLAE
-## VII. DE PRAEPOSITIONE
+# VII. DE PRAEPOSITIONE
 
 Septima mihi epistola de praepositione ordienda est. Sed quia de usitatis praepositionibus usitatus sermo pene pueris philosophorum est, ideo inusitatas praepositiones ex quarto philosophiae latinitatis genere sumamus, hoc primitus scientes, quod monosyllabae praepositiones nullum aliud praeter usitatum genus habeant, ut *a ad e de ex pro prae cis post trans in sub cum clam*. Hae in nulla experta, qua utimur latinitate, penitus habentur.
 

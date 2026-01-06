@@ -1,7 +1,4 @@
-# THE LETTERS OF VIRGILIUS MARO
-## II. ON THE PRONOUN
-
-### English Translation
+# II. ON THE PRONOUN
 
 Unless perhaps our work were thought to limp, if its own letter had not also been rendered to the pronoun, and some portion of your desire seemed to be withheld from you, I would indeed wish to be silent about the pronoun rather than say anything—especially since so many have written many clear things about this part of speech, whether in their own little works or in places of other works occupied with these same matters, and I myself have announced a work proper to the pronoun in the *Epitomae*, fifteen in number. Nevertheless, lest I fall into that saying of Glengus, which he confidently dared to say to someone fleeing a dispute—"a coward," he said, "deserves a *fambulum*"—I shall speak forth a few things necessary to your business concerning the pronoun.
 
@@ -23,14 +20,14 @@ There are those who think the pronoun *alius* has a genitive case, which is to b
 
 There are pronouns about which it is disputed whether they should be understood as pronouns or adverbs, such as *eccum* and *ellum*. There are pronouns for which an affected or exchanged declension is asserted, as *cuius cui cuio*. I know also *cuia cuiae* and *cuium cui*. But this declension is not to be referred to authority. There is also a pronoun to be declined according to each number through four cases—two nominative cases, both singular and plural, and likewise two accusatives—as *nostras nostrates*, *cuias cuiates*. But that we may prove these same things to be true by examples, Donatus in a certain song composed thus, saying:
 
-> *Nostras omnis familia,*
-> *nostrates quoque pecora*
-> *euadant inminentia*
+> *Nostras omnis familia,*<br>
+> *nostrates quoque pecora*<br>
+> *euadant inminentia*<br>
 > *hostilium pericula.*
 
-> [May our whole household,
-> and our cattle too,
-> escape the threatening
+> [May our whole household,<br>
+> and our cattle too,<br>
+> escape the threatening<br>
 > perils of the enemy.]
 
 Gabritius also says: "*nostrates* salutate fratres, quia et *nostrates* uos undique salutant" ["Greet our countrymen, brothers, because our countrymen too greet you from everywhere"]. Terrentius also in the fourth book of his *Grammatical Dispositions* issued such a proem: "*Cuias* gens et *cuiates* populi litteris tam prompte dediti sunt quam Tusci, quorum natura fertur ab infantiae annis sapientiae studere soli et nihil aliud amare quam semper philosophare?" ["What nation and what peoples are so readily devoted to letters as the Tuscans, whose nature is said from the years of infancy to study wisdom alone and to love nothing else than always to philosophize?"]
@@ -54,8 +51,6 @@ There are other pronouns which are called geminate, as *quis* and *qui*, *quae* 
 Some attempt to inflect each pronoun separately and have it thus: *quis*, *quuius*, *quui*, *quem*, *a quo*; *qui*, *quorum*, *quibus*, *quos*, *a quibus*. Another way: *qui*, *quius*, *quium*, O, *a qui*, and in the plural number two *i*'s are placed, as *quii quium*, *quiis*, *quios*, O, *a quiis*. Thus also *quae*, *cuius*, *cui* (which two cases are placed through *c* for the sake of distinction of these declensions, not otherwise) *quam*, O, *a qua*; and in the plural *quae*, *quarum*, *quibus*, *quas*, *a quibus*. Another way: *qua* and in the genitive through two *e*'s *quaeae*, *quaeae*, *quaeam*, *a quaea* or *a qui*, *quaeae*, *quaearum*, *quis*, *quaeas*, *a quiis*; and in the neuter *quod*, *quuius*, *quui*, *quod*, O, *a quo*, *quae*, *quorum*, *quibus*, *quae*, O, *a quibus*. Another way: *quid*, *quius*, *quii*, *quid*, O, *a qui*; and in the plural *quaeae*, *quaeeorum* or *quium*, as seems better, *quis*, *quaeae*, *quibus*, O, *a quibus*.
 
 These things, most holy deacon, briefly said concerning the principle of the pronoun, seek an opportune end for themselves.
-
----
 
 ## Translator's Notes
 

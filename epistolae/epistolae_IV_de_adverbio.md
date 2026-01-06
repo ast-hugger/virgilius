@@ -1,5 +1,4 @@
-# VIRGILII MARONIS EPISTOLAE
-## IV. DE ADVERBIO
+# IV. DE ADVERBIO
 
 Omnis urbs munita et cincta ciues hostibus non tradat: ita historica expositio si recte ac ratabunde fuerit perordita, nullius reprehensionis locum ulterius habebit. Unde nos doctores monent ut omnes artes non solum principales, uerum etiam mediocres atque officiales recte in praeceptis statuantur. Propter quod et ego, quia tibi de nomine ac pronomine uerboque breuiarias expositiones per epistolas intimauerim, inferiores quoque partes breuioribus quidem sed propriis epistolis explanabo, praesertim cum in epitomis de IIII partibus unum feci opusculum, quae residuae sunt aduerbio scilicet participio coniunctione et praepositione. His si proprias habeant epistolas, paulo latius aliquid legentibus conferatur ad sensum.
 

@@ -1,7 +1,4 @@
-# THE LETTERS OF VIRGILIUS MARO
-## VIII. ON THE INTERJECTION
-
-### English Translation
+# VIII. ON THE INTERJECTION
 
 Now let us say a few things about the interjection. The interjection is indeed a part of speech, but so unusual that unless it were because it is not enumerated by the Greeks, it would not be thought to be Latin. But in speech, which is rarely read by us, there are many interjections, and their significations are abundant:
 
@@ -26,8 +23,6 @@ This is the game of Galbungus: "What," you might ask, "flies across a whole hour
 Let my little jests also appear to you, even the smallest in all things, which may build up the reader more than harm him:
 
 "*Uatum personet ponticum ponto ex natum naturo naturum naturam nataturo: terni tema flumen fontes fronda ex una undatim daturi sepna semper atur aspirannis perennis rectis re perque tura toregmatis magna dei decies dena dilfensum quam possit molos minulatur atroci saeuo seu ignoro nimphae neganda. Gnaro ab ignando, gnaris ab gelandis. Leto lectisque lux oro suis solim in trono trino uno omni praesim potente deo digna regna regnaturo torii per cuncta cunctorum aeterno aeuo efandi secula.*"
-
----
 
 ## Translator's Notes
 

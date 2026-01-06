@@ -1,7 +1,4 @@
-# THE LETTERS OF VIRGILIUS MARO
-## V. ON THE PARTICIPLE
-
-### English Translation
+# V. ON THE PARTICIPLE
 
 As I am about to speak concerning the participle, about which frequent discourse has been made both by us and by most teachers, I think that saying of my Aeneas should be recalled in the preface of the work. For it is best and very best indeed for every student to make unfailing mention of his teacher at the end of all writings and at the beginning, whom they call the third father of human learning. And so my Aeneas asserts that the virtue of participles is threefold, which he set forth in such manner in his book written and methodically arranged concerning the virtue of all the arts: "The first virtue of participles," he says, "is that it possesses the noun and verb, the two principal parts of speech. The second, that just as the verb is active, in the same manner it also acts. The third, that if it is placed at the end of testimonies, it is taken for a verb; which however happens not by constant custom but rarely." Thus Aeneas.
 
@@ -30,8 +27,6 @@ Another question presses upon us, quite in need of resolution: why we often find
 Wondering therefore how a participle of a passive verb can come from a neutral verb, I remember having asked Aeneas about this, and thus he responded to me: that this is not a participle, but an adjective noun similar to a participle. This is Aeneas's judgment concerning this participle. When therefore I had heard him saying definitively that from defective verbs there must always be defective participles, I asked him saying: "How then, my lord, do we find a participle being born from that verb which is defective in persons, as is *decens* [fitting] from *decet* [it befits]?" Then smiling at me he said: "I advise you, my son, not to be led astray by any similarity: for many indeed not understanding the force of Latin speech, led by similarity, place parts for parts, just as also that which we are often accustomed to read *inpraesentiarum* [for the present] they confuse and not knowing what it is, they remove the final syllable *-rum* so that they place *in praesentia*, making an ablative case with a preposition, which is utterly unfitting, for *inpraesentiarum* makes one temporal adverb, so that it is similar to *praesentim* as it were: and in this way they are led astray, because they falsely think *decens* is a participle. For these verbs which are defective according to persons, such as *decet* [it befits], *oportet* [it behooves], *tedet* [it wearies] and so forth, have no participles. It remains therefore that you understand *decens* to be an adjective noun, similar indeed to a participle, just as also *condecens* [very fitting] and *indecens* [unfitting] and *perdecens* [thoroughly fitting]." Thus Aeneas.
 
 But since I think I have sufficiently discussed the participle both in this and in the above-mentioned work, I shall give an opportune end to this letter.
-
----
 
 ## Translator's Notes
 

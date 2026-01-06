@@ -1,7 +1,4 @@
-# THE LETTERS OF VIRGILIUS MARO
-## VII. ON THE PREPOSITION
-
-### English Translation
+# VII. ON THE PREPOSITION
 
 The seventh letter must be begun by me concerning the preposition. But because the customary discourse concerning customary prepositions is almost for the boys of philosophers, therefore let us take up unusual prepositions from the fourth kind of philosophical Latinity, knowing this first, that monosyllabic prepositions have no other kind besides the customary, such as *a*, *ad*, *e*, *de*, *ex*, *pro*, *prae*, *cis*, *post*, *trans*, *in*, *sub*, *cum*, *clam*. These are held in no experienced Latinity which we use at all.
 
@@ -59,8 +56,6 @@ But in that which a certain Andreas wrote concerning Pyrrhus: "*Absque Asiae*" h
 *Ante* also has a double sense: for it is said either concerning priority of time, as that saying "it was before the ages"; or it is also taken for *coram* [in the presence of], as that saying: "He sat before the tribunal," that is "in the presence of the tribunal."
 
 What the difference is between *circum* and *circa* and *erga* was explained by us previously. And so let these things briefly spoken concerning prepositions suffice.
-
----
 
 ## Translator's Notes
 
