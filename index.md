@@ -1,6 +1,4 @@
 
-X
-
 ### [Praefatio](praefatio/huemer_praefatio_clean.md) ✤ [Preface](praefatio/huemer_praefatio_english_translation.md)
 
 ## Epitomae
