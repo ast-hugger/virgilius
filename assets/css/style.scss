@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: #FFFFED;
+}
+
+h1 a {
+    color: black;
+    font-size: 16px;
+}
+
+.markdown-body {
+    font-family: "Palatino", "Georgia", "Garamond", serif;
+}
+
+.container-lg {
+    max-width: 700px;
+}
