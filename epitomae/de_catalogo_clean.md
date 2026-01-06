@@ -1,8 +1,4 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### XV. DE CATALOGO GRAMMATICORUM
-
----
+# XV. DE CATALOGO GRAMMATICORUM
 
 Primus igitur fuit quidam senex Donatus apud Troiam, quem ferunt mille uixisse annos. Hic cum ad Romulum, a quo condita est Roma urbs, uenisset, gratulantissime ab eodem susceptus, quattuor continuos ibi fecit annos, scolam construens et innumerabilia opuscula relinquens, in quibus problemata proponebat dicens: "Quae sit mulier illa, o fili, quae ubera sua innumeris filiis porrigit, quae quantum suxa fuerint, tantum in ea inundant?" Hoc est sapientia.
 

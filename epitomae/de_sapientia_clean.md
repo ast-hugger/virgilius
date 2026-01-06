@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## I. DE SAPIENTIA
+# I. DE SAPIENTIA
 
 Toto proficit in polo nostrae connumeratio litteraturae, quia non pecuniarum contractus, sed sapientiae quaestus ratiocinamur. Sapientia autem ex sapore sic nominatur, quia sicut in corporis fit gustu, ita et in animae motu quidam sapor est, qui artium dulcedinem gustet, qui uerborum sententiarumque uim discernat amara quaeque refutans, suauia uero consectans. Amara quidem dicimus quae sectarum contraeunt ueritati, suauia autem quae uniuscuiusque artis ac disciplinae suggerunt rationem. 
 

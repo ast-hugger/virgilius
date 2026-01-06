@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## XIII. DE SCINDERATIONE FONORUM
+# XIII. DE SCINDERATIONE FONORUM
 
 Primus Aeneas aput nos fona scindere consuetus erat. Quod cum ab eo diligentissime percunctarer, cur hoc faceret, *o fili*, inquit, *ob tres causas fona finduntur: prima est, ut sagacitatem discentium nostrorum in inquirendis atque inueniendis his, quaeque obscura sunt, adprobemus. Secunda est propter decorem aedificationemque eloquentiae. Tertia ne mystica quaeque, et quae solis gnaris pandi debent, passim ab infimis ac stultis facile repperiantur, ne secundum antiquum sues gemmas calcent: etenim illi didicerint hanc sectam, non solum magistris nihil agent pietatis, nihil honoris reuerentiaeue inpendent, uerum etiam porcorum more ornatores suos laniabunt.*
 

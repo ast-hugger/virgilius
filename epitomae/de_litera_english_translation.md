@@ -1,10 +1,6 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### II. ON THE LETTER
+# II. ON THE LETTER
 
 *[Translator's note: Latin* litera *means both "letter" (of the alphabet) and "literature/learning" more broadly. Virgilius exploits this ambiguity throughout the chapter, treating the individual letter as both the minimal unit of writing and a synecdoche for grammatical education as a whole.]*
-
----
 
 The letter is, as it were, a kind of nativity of reading; hence I recall that my teacher Aeneas compared its stages of growth to the ages of an infant bursting forth from its mother's womb. For just as one is called an "infant" (*infans*) who does not know how to speak, and a "little one" (*paruulus*) when he strives to impress upon the ground the small efforts of his steps, and a "boy" (*puer*) when he reaches puberty, and an "adolescent" (*adulescens*) when he grows up with the stature of his body, and a "youth" (*iuuenis*) when, with adulthood reached, he becomes worthy of the arms of a spouse and of the other liberal studies, and finally a "man" (*uir*) when he attains the full power of all his senses and judgments: so too the letter, from the very characters inscribed on wax up to the composition of sentences, progresses through these same stages. For it is called "infant" when it does not sound forth with grammatical skill—those marks, at least, which serve to indicate to the little strokes being scratched onto wax tablets—and it is "little" when it advances gradually through the joining of syllables, "boyish" when it grows through the measures of metrical feet, "adolescent" when it breathes forth poetic meters through little songs of verses, "youthful" when it grasps a certain understanding of cases and verbs, and finally "mature" when it teaches most fully the composition of sentences, as I have said.
 
@@ -17,8 +13,6 @@ Furthermore, letters are strong for this reason: because they alone have force w
 Concerning *h*, this must be said: that it always adds aspiration, sometimes for strengthening, sometimes merely for modification. For when it has preceded the semivowel *f*, they will equally modify the sound, as *hfascon*, and they make *f* in place of *hf*. But if it precedes a mute consonant *c* or *t* or *p*, it does not lose its own sound, as in *hcorda*, *htronus*, *hpalanx*. *N*, however, if *f*, *m*, *p*, or *n* follows it, will be changed into the sound of *m*, with the written form either remaining or being altered, as one pleases—as when you say *infecit*, *inflauit*, *confudit*, *inuenit*, *non ualet*, *non piget*, *inpossuit*, *non manet*.
 
 I also want you to know this at the end of this epitome—that is, this exposition—that no letter lacks a numerical value. For *a* often signifies five hundred, sometimes thirty, sometimes ten, sometimes one. *B* signifies five thousand or merely two; *c* one hundred or eighty; *d* and *f* and *n* and *q* always produce five hundred and nine hundred; *i* and *e* produce either four hundred or only one; *m*, *r*, *s*, *u*, *l* signify one thousand; *t* and *x* signify ten and ten thousand; *g* is subject to every number up to ten; *h* from eleven up to thirty; *k* supplies one hundred times one hundred thousand; *o* is denied to no number, whether the greatest or the smallest.
-
----
 
 ## TRANSLATOR'S NOTES
 

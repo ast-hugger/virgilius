@@ -60,7 +60,7 @@ Galbungus. The verb derives from *uerbere* (blow) and *bucino* (trumpet)—tongu
 throat, voice trumpeting. Cato, Aeneas, and Cicero dispute whether imperative or
 indicative mood has priority.
 
-### VIII. [De Reliquis Partibus](epitomae/de_reliquis_partibus_clean.md) ✤ [On the Remaining Parts](epitomae/de_reliquis_partibus_english_translation.md)
+### VIII. [De Reliquis Partibus Orationis](epitomae/de_reliquis_partibus_clean.md) ✤ [On the Remaining Parts of Speech](epitomae/de_reliquis_partibus_english_translation.md)
 
 Five minor parts compressed into one chapter. Invented adverbs (*tun*, *con*, *tuncon*)
 appear. Aeneas describes the sun fleeing into the sea "as into a most fortified city" in

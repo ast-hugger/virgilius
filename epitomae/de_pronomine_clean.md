@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## VI. DE PRONOMINE
+# VI. DE PRONOMINE
 
 Reddidimus ut potuimus superiore epitoma rationem requirentibus, qua diuitia nomen uerbo praetulerimus. Nunc aliut quaestionis inminet genus, cur etiam pronomen uerbum praecedat, cum uerbum omnium partium egregium sit. Quibus hoc modo respondendum est, quod in diuisione omnium partium orationis alii octo partes dixere, nonnulli eundem numerum minuentes nomen et pronomen in eandem partem redigendum esse putauerunt. Uerbum quoque et participium in unum conglomerantes absurdum dixerunt uelut a corpore membrum ita a uerbo separare participium. Aduerbia autem et coniunctiones unam partem esse putauerunt sequestratis praepossitione et interiectione atque ita erat, ut pro octo partibus quinque annumerauerint. Hac ergo ratione pronomen a nomine secernere noluerunt sicut socios a rege.
 

@@ -1,8 +1,4 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### VIII. ON THE REMAINING PARTS OF SPEECH
-
----
+# VIII. ON THE REMAINING PARTS OF SPEECH
 
 With the edict concerning the principal parts having been treated as briefly as possible, separately through the individual parts—that is, concerning the noun, pronoun, and verb—now through the remaining parts of speech we are about to set forth, as if through a chronicle, one epitome only.
 
@@ -45,3 +41,45 @@ A few things must be said about the preposition. For all prepositions which serv
 #### (12.) On the Interjection
 
 The signification of interjections, both because it is worn and because it has been judged by our people to be almost superfluous and disordered—I say only this: that *uae* and *eugae*, when they signify adverse things, will have a diphthong in their ending; but when *ue* only distinguishes and *euge* shows joy, it is not necessary to have a diphthong.
+
+## TRANSLATOR'S NOTES
+
+### The Compression of Five Parts
+
+Having devoted full chapters to noun, pronoun, and verb, Virgilius now treats adverb, participle, conjunction, preposition, and interjection in a single compressed chapter "as if through a chronicle" (*uelut per cronicen*). This structural decision reflects the traditional grammatical hierarchy placing noun and verb above the "minor" parts.
+
+Law (1995) notes that this compression was common in late antique grammar, where the eight parts were often treated in unequal detail. Virgilius's term *cronicen* (chronicle) suggests a historical survey rather than systematic analysis.
+
+### Invented Adverbs: *Tun*, *Con*, *Tuncon*
+
+The adverbs *tun* (place, contrasted with *tum* for time), *con* (for *illuc*), and compound *tuncon* (for *tanquam*) are Virgilian inventions unattested elsewhere. Law suggests these represent either creative grammar or possibly obscure dialectal forms.
+
+The warning that *tanquam* not be mistaken for "two words" (*duae uocales*) is characteristic—Virgilius invents words and then provides learned discussion of their proper usage, treating invented vocabulary with the same seriousness as inherited forms.
+
+### Aeneas as Arbiter of Possibility
+
+The statement that Aeneas "denied this could happen" (*hoc fieri posse negaret*)—that *facile* and *deficile* could function as neuter nouns—shows Aeneas determining not just what Latin is but what it can be. This positions the teacher as legislator of linguistic possibility.
+
+### *Agapeta* and Christian Context
+
+The term *agapeta* for "loving" adverbs of gathering (*pro inuicem laboramus*) derives from Greek ἀγαπητός. Since *agapetae* were consecrated virgins in the early Church, this may hint at Christian context. Herren (1979) notes several such possible Christian markers in Virgilius's vocabulary.
+
+### The Solar Eclipse Passage
+
+Aeneas's passage about the theater gathering—where the sun "indignantly bearing that so much discord was held by the citizens, suddenly covered in darkness in the middle of the day, fled into the sea as if into a most fortified city"—is remarkable for its moral cosmology. The sun acts as ethical agent, fleeing in disgust from human conflict.
+
+Law suggests this may echo historical eclipse traditions, Christian moral exempla, or be purely Virgilian invention. The passage functions ostensibly to demonstrate conjunctions in context but achieves considerable rhetorical power.
+
+### Origines the Athenian
+
+The anecdote of "Origines the Athenian" (*Origines Atheniensis*) correcting a young Virgilius on spelling—"O Virgil, what are you doing?"—provides a rare personal glimpse, though its historicity is uncertain. The name echoes the great Alexandrian theologian Origen.
+
+The paradoxical advice that one should be "a writer rather than a reader" before understanding letters inverts normal pedagogical sequence, suggesting that physical practice precedes intellectual understanding.
+
+### *Ergum* as Philosophical Term
+
+The claim that in "philosophical Latinity" (*latinitate filosofica*) *ergum* means "affection" exemplifies Virgilius's characteristic blending of grammar with philosophy, creating specialized technical vocabulary for his learned community.
+
+### The Dismissal of Interjections
+
+Virgilius dismisses interjections as "almost superfluous and disordered" (*pene superuacua atque incondita*), offering only a brief note on diphthongs. This dismissiveness contrasts with the extensive treatment of other parts and may reflect genuine grammatical opinion that interjections are marginal to systematic description.

@@ -1,9 +1,6 @@
-# VIRGILIUS MARO GRAMMATICUS
-## APPENDIX TO THE EPITOMAE
+# APPENDIX TO THE EPITOMAE
 
 *[Translator's note: This Appendix, as presented in Huemer's 1886 edition, preserves three fragments from different manuscript traditions that transmit Virgilian material in variant forms. These fragments—the Angelic, Montpellier, and Milan—demonstrate that Virgilius's work circulated in multiple recensions with different openings, vocabulary, and emphases. The variants are crucial for understanding the textual transmission and reception of Virgilius's work, and the Milan fragment's heading "Virgilius presbyter Hispanus" provides the only explicit statement of Virgilius's possible clerical status and geographic origin.]*
-
----
 
 ## I. THE ANGELIC FRAGMENT
 
@@ -35,8 +32,6 @@ Latinus, from whom Latinity derives. He is reported to have lived one hundred ye
 
 **Polema**—that is, figured—which treats of higher things, such as *allipha* for *anima* (soul); *spiridon* for *spiritus* (spirit); *nepote* for supernal virtues; *sanamia* for the unity of the high God.
 
----
-
 ## II. THE MONTPELLIER FRAGMENT
 
 *[This fragment comes from a Montpellier manuscript and is titled "Differences of Words from the Epitomes of Virgilius." It presents semantic distinctions in a format resembling classical* differentiae *literature (cf. Isidore's* Differentiae*), with explicit cross-references to specific Epitomae and Epistolae chapters, suggesting derivation from a teaching context where both works were studied together.]*
@@ -55,8 +50,6 @@ They also say that *plebs* (common people) is one thing, *populus* (people) anot
 
 *Consumptio* (consumption) pertains to destruction; *consummatio* (consummation), however, to perfection.
 
----
-
 ### FROM EPITOME IV AND V.
 
 When *tenebra* (darkness, singular) is said, a certain rust in daytime—that is, haze—is understood, and except for the accusative singular it is declined through all cases. But *tenebrae* (darknesses, plural) are the densest and deepest obscurities of nights. *Sol* (sun) is not forbidden to be declined in either number, but in the singular number *sol* will be the luminary itself; but we name *soles* (suns) the days themselves in which the sun illuminates the whole pole. Nevertheless, some ancients named poems themselves *soles*, as Oratius began at the start of a certain volume thus: *soles meos omni ecclesiae uestrae commendo* ("I commend my *soles* to your whole church").
@@ -67,21 +60,15 @@ There are many nouns which rejoice in double declension, such as *materies/mater
 
 Between *operatio* and *opus* and *opera* this is the difference: *operatio* is of individuals; *opus* is general to every office; *opera*, however, in the singular number is a laborious care which especially tortures the soul.
 
----
-
 ### FROM EPITOME VI.
 
 Between noun and pronoun this is the difference: that a pronoun, lacking comparison, has person, such as *ego*, *tu*, *ille*; a noun, however, with person cast aside, receives comparison, such as *carus*, *carior*, *carissimus*. We read that *mei* or *mis* is declined, but *mis* is said only of that thing which, promised to me by someone, I hope will come about; *mei*, however, of that thing which I possess at present.
-
----
 
 ### FROM EPITOME XI.
 
 What is the difference between *uerbum* and *sermo* and *sententia* and *loquela* and *oratio*? *Uerbum* is everything that is uttered by tongue and voice. *Sermo*, however—whose name is composed from two words, that is, *serendo* (sowing) and *monendo* (admonishing)—is more elegant and careful. *Sententia*, indeed, is that which is conceived by the sense. Furthermore, *loquela* is when with a certain eloquence the order of speech is woven. *Oratio* is when the speech, having first prayed, reaches all the way to the art of the hands for writing.
 
 **In Epitome IV.** Some wrongly want *loquelas* to be understood in elocution, whose *loquelae*, to be written with *-e-* and *-l-* as one, pertain to perfect eloquence.
-
----
 
 ### In VIII.
 
@@ -95,13 +82,9 @@ What is the difference between *uerbum* and *sermo* and *sententia* and *loquela
 
 *Pono* (I place) is simply establishing something. *Dispono* (I arrange) is about to do something of more costly work or counsel. There is also *disponere* of entering into a treaty. *Propono* (I propose) sometimes pertains to questioning. *Appono* (I add) is of addition. *Inpono* (I impose) is of insinuating. *Superpono* (I place above) is imposing some tax or labor upon anyone. *Praepono* is preferring something, so also *antepono*. For *postpono* is judging another thing inferior. *Compono* (I compose) is of praying or of eloquence or of craft. *Sepono* (I set apart) is of separating. *Suppono* (I place under) is bringing something underneath. *Depono* (I put down) is of weakening or of departing from life.
 
----
-
 ### FROM LETTER X.
 
 Between *uerum* and *uero* there are two differences: one, because *uerum* is of prepositive order, *uero* of subjunctive; the other, because *uerum* is held causally for *tamen* (nevertheless), *uero* is taken only for the filling out of its own station. Frequently causals are accustomed to be put for rationals and copulatives for causals, as Cicero: *uos uicistis et dii uos iuuerunt* ("You have conquered and the gods have helped you"). *Quoniam* is put for *tamen*. As Donatiuas the praetorian thus spoke: *quamquam me accusent, quoniam ego auctoritate fidens omnium probra temno* ("Although they accuse me, *quoniam* I, trusting in authority, despise the reproaches of all")—that is, "nevertheless I despise all." If *quoniam* has two verbs around it, it will make the one subjoined to the prior, as Sulpicius writes: *iurabant quoniam debellabant* ("They were swearing *quoniam* they were conquering")—here the order is: "Therefore they were conquering *quoniam* they were swearing."
-
----
 
 ## III. THE MILAN FRAGMENT
 
@@ -140,8 +123,6 @@ This should be known: that almost all things were said differently among the anc
 We say *dentes* (teeth) because they give (*dent*)—that is, to give strength to speech. They called them *rumini* because they gnaw all foods. Aeneas judged that teeth are better called *mandulae* from the fact that they chew (*mandunt*).
 
 This same man used to say to me when I asked him what nature was: *O fili, scito quod uniuscuiusque rei natura est, in qua nascitur et sine qua omnino subsistere ac uiuere non potest, sicut homo sine actu, auis sine uolatu, piscis sine natatu* ("O son, know that the nature of each thing is that in which it is born and without which it cannot at all subsist and live—just as a human without action, a bird without flight, a fish without swimming").
-
----
 
 ## TRANSLATOR'S NOTES
 

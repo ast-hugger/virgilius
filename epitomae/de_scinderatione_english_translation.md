@@ -1,7 +1,4 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-
-## XIII. ON THE SPLITTING OF WORDS
+# XIII. ON THE SPLITTING OF WORDS
 
 Aeneas was first among us accustomed to split words. When I was inquiring of him most diligently why he did this, he said: "O son, for three reasons are words split. The first is that we may test the acuteness of our students in seeking out and finding those things which are obscure. The second is for the beauty and edification of eloquence. The third is lest any mystic things, and those which ought to be revealed only to the knowing, be easily found everywhere by the lowest and foolish—lest, according to the ancient saying, pigs trample gems. For if they learn this sect, not only will they show no piety to their teachers, no honor or reverence will they bestow, but indeed in the manner of swine they will tear apart their own adorners."
 
@@ -39,49 +36,7 @@ Among which is that saying of Aeneas tearfully narrating the history—nay, the 
 
 This order, however, of almost the whole testimony has been inverted; which we therefore leave indifferently, because both it is in anyone's power to arrange as he pleases, and the end of this little exposition is near. But it is the mark of wise writers to split words according to these examples which we have proposed.
 
----
-
 ## TRANSLATOR'S NOTES
-
-### The Compression of Five Parts
-
-Having devoted full chapters to noun, pronoun, and verb, Virgilius now treats adverb, participle, conjunction, preposition, and interjection in a single compressed chapter "as if through a chronicle" (*uelut per cronicen*). This structural decision reflects the traditional grammatical hierarchy placing noun and verb above the "minor" parts.
-
-Law (1995) notes that this compression was common in late antique grammar, where the eight parts were often treated in unequal detail. Virgilius's term *cronicen* (chronicle) suggests a historical survey rather than systematic analysis.
-
-### Invented Adverbs: *Tun*, *Con*, *Tuncon*
-
-The adverbs *tun* (place, contrasted with *tum* for time), *con* (for *illuc*), and compound *tuncon* (for *tanquam*) are Virgilian inventions unattested elsewhere. Law suggests these represent either creative grammar or possibly obscure dialectal forms.
-
-The warning that *tanquam* not be mistaken for "two words" (*duae uocales*) is characteristic—Virgilius invents words and then provides learned discussion of their proper usage, treating invented vocabulary with the same seriousness as inherited forms.
-
-### Aeneas as Arbiter of Possibility
-
-The statement that Aeneas "denied this could happen" (*hoc fieri posse negaret*)—that *facile* and *deficile* could function as neuter nouns—shows Aeneas determining not just what Latin is but what it can be. This positions the teacher as legislator of linguistic possibility.
-
-### *Agapeta* and Christian Context
-
-The term *agapeta* for "loving" adverbs of gathering (*pro inuicem laboramus*) derives from Greek ἀγαπητός. Since *agapetae* were consecrated virgins in the early Church, this may hint at Christian context. Herren (1979) notes several such possible Christian markers in Virgilius's vocabulary.
-
-### The Solar Eclipse Passage
-
-Aeneas's passage about the theater gathering—where the sun "indignantly bearing that so much discord was held by the citizens, suddenly covered in darkness in the middle of the day, fled into the sea as if into a most fortified city"—is remarkable for its moral cosmology. The sun acts as ethical agent, fleeing in disgust from human conflict.
-
-Law suggests this may echo historical eclipse traditions, Christian moral exempla, or be purely Virgilian invention. The passage functions ostensibly to demonstrate conjunctions in context but achieves considerable rhetorical power.
-
-### Origines the Athenian
-
-The anecdote of "Origines the Athenian" (*Origines Atheniensis*) correcting a young Virgilius on spelling—"O Virgil, what are you doing?"—provides a rare personal glimpse, though its historicity is uncertain. The name echoes the great Alexandrian theologian Origen.
-
-The paradoxical advice that one should be "a writer rather than a reader" before understanding letters inverts normal pedagogical sequence, suggesting that physical practice precedes intellectual understanding.
-
-### *Ergum* as Philosophical Term
-
-The claim that in "philosophical Latinity" (*latinitate filosofica*) *ergum* means "affection" exemplifies Virgilius's characteristic blending of grammar with philosophy, creating specialized technical vocabulary for his learned community.
-
-### The Dismissal of Interjections
-
-Virgilius dismisses interjections as "almost superfluous and disordered" (*pene superuacua atque incondita*), offering only a brief note on diphthongs. This dismissiveness contrasts with the extensive treatment of other parts and may reflect genuine grammatical opinion that interjections are marginal to systematic description.
 
 ### *Scinderatio*: Three Interpretations
 

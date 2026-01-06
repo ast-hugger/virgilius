@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## IV. DE METRIS
+# IV. DE METRIS
 
 Metrorum quidem conpositio multifaria est; non enim ad eundem ordinem naturam numerum finemque omnia respiciunt, uerumtamen unum nosse debet unusquisque cantatorum, quod metra in quacumque pensatura fona sint. Metrum ex meta nomen accepit, cuius pedes sunt dicti uelut quaedam medietates fonorum, quae quoniam necessitate cantandi a poetis disparata sunt in tantum, ut extrema foni parte in alterum translata nullum fonum incolome remaneat, hac causa nullum metrum planum inueniri potest. Multas autem metrorum cantilenas propter poetarum rhetorumque uoluntatem eorum sectae declarant. Quaedam enim prosa, quaedam liniata, quaedam etiam mederia, nonnulla perquam extensa ponuntur; quorum pauca pro uestra utilitate expossituri sumus.
 

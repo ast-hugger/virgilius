@@ -1,8 +1,4 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### XIV. ON THE COGNOMINATIONS OF NOUNS AND VERBS
-
----
+# XIV. ON THE COGNOMINATIONS OF NOUNS AND VERBS
 
 I remember that I was asked last year by Donatus, my student and your fellow citizen, to reveal whence *caelum* (sky/heaven) is said. To him I replied that it had not been in my mind to expend that work at that time. I was not able to devote time to the body of nouns at that hurried time; now I shall bestow it upon your affection, about to add other things as well.
 
@@ -33,8 +29,6 @@ The philosophers called virtue and running "hands" and "feet," whose nouns have 
 *Gloria* (glory) from glorification; among philosophers, *glores* is what they are called. *Gratia* (grace) is that which is given freely or received without price. *Brachium* (arm) means strength. We say *dentes* (teeth) because they give speech or strength to the voice; others have named them *ruminae*, others *mandibulae*, because they gnaw or chew food.
 
 The nature of each thing is that in which it is born and without which it cannot live—just as a human without action, a bird without flight, a fish without swimming. And just as the body consists of five senses, so writing consists of five vowel letters, which reign in the eight parts of speech.
-
----
 
 ## TRANSLATOR'S NOTES
 

@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## VII. DE VERBO
+# VII. DE VERBO
 
 Memini me cum essem adolescentulus scolaribus studiis deditus quodam interfuisse die conuentui gramaticorum, qui non minus quam triginta in unum possiti in laude artium et decore conponendo multa quaesiuere, et hoc omnes ratauere, quod nihil ad testimoniorum conpossitionem faciendam utillius et conpetentius esset quam ut uerbi integra expossitio digne dignosceretur. Cuius dispensatione atque iudicio latinitatis status et perficitur et oritur, quod uerbum principalem partem orationis cuncti astruunt. Nam licet in ordine praeesse nomen admittat, tamen in possitione quassorum principatum tenet; cui aduerbiorum coniunctionumque agmina omne ius suum dederunt.
 

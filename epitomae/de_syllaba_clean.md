@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## III. DE SYLLABA
+# III. DE SYLLABA
 
 Syllabae sunt glutini literarum, quibus uernale est quod nulla earum absque uocalibus literis stare queat, unde et reginae dicuntur literarum. Syllabae monades senas literas transcendere non debent ut *scrobs*, nec duas habere uocales excepto, cum diptongus aut aliquidatio significetur ut *aes faus laus fraus*; disyllabae autem, cum in nomine aut uerbo aut quauis arte forint, duas tantum uocales habebunt exceptis, quae supra diximus. 
 

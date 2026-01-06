@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## VIII. DE RELIQUIS PARTIBUS ORATIONIS
+# VIII. DE RELIQUIS PARTIBUS ORATIONIS
 
 Edicto de principalibus partibus separatim per singulas partes id est de nomine pronomine et uerbo quam breuissime tractatu, nunc per reliquas orationis partes uelut per cronicen unam tantum epitomam sumus exposituri.
 

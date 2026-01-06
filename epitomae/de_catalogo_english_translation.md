@@ -1,8 +1,4 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### XV. ON THE CATALOG OF GRAMMARIANS
-
----
+# XV. ON THE CATALOG OF GRAMMARIANS
 
 The first, therefore, was a certain old man Donatus at Troy, whom they report to have lived a thousand years. When he had come to Romulus, by whom the city of Rome was founded, he was received most gratefully by him and spent four continuous years there, building a school and leaving behind innumerable little works, in which he would propose riddles, saying: "What is that woman, O son, who extends her breasts to innumerable sons, which the more they have been sucked, the more they overflow in her?" This is Wisdom.
 
@@ -61,8 +57,6 @@ There were furthermore three Lucani, one in Arabia, another in India, a third in
 There was also my grandfather Martulis, a man quite learned and bright of countenance. He was most diligent in the grammatical art.
 
 Let it suffice to have suggested these things to you, O companions and students, excerpted from the books of paternal laws, for the utility and salvation of all who read.
-
----
 
 ## TRANSLATOR'S NOTES
 

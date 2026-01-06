@@ -1,8 +1,4 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### III. ON THE SYLLABLE
-
----
+# III. ON THE SYLLABLE
 
 Syllables are the glue of letters, and it is their essential property that none of them can stand without vowels; hence vowels are called the "queens" of letters. Single syllables ought not to exceed six letters, as in *scrobs*, nor have two vowels—except when a diphthong or some elision is indicated, as in *aes*, *faus*, *laus*, *fraus*. Disyllables, however, when they occur in a noun or verb or any word, will have only two vowels, excepting those cases which we mentioned above.
 
@@ -13,8 +9,6 @@ Who easily understands the natures of syllables, since they are so often altered
 Concerning the computation of syllables, since Terrentius has treated this most fully, we shall discuss it briefly, adding only those things which he left out. Every syllable of two or three letters has a numerical value: for you say *al* and indicate eight hundred, and again *bpa* and signify three thousand.
 
 I had intended to extend my discussion of syllables at greater length, but since the order of writing summons us to the treatment of meters, in which feet and syllables are measured, I therefore think it more convenient, with these preliminary remarks about syllables serving as a kind of little preface, to proceed to the exposition of meters.
-
----
 
 ## TRANSLATOR'S NOTES
 

@@ -12,8 +12,6 @@ Latinus, a quo latinitas. Is centenos habuisse fertur annos. Hic uir magnus fuit
 
 **Lumbrosa** hoc est perlonga, cum pro uno usitato totus uersus scribitur ut *gabigayrum besingal fitelon* hoc est *legat*. *Biroc* hoc est *utile parentem linquere non est*. **Belsabia** hoc est peruersa, cum casus nominum modusque uerborum transmutat ut *legibus* hoc est *lex* et *rogo* hoc est *rogate*. **Bresina** hoc est spaciosa, cum unum multa usitata significant ut *sur* uel *campos* uel *spado* uel *gladius* uel *amnis*. **Militana**, id est multimoda, cum pro uno sono usitato multi ponuntur ut pro *cursu* *gabon sualin rabat sclon*. **Spela** hoc est humillima, quae semper res terrenas loquitur ut *sabon* hoc est *lepus*, *gabal* hoc est *uulpes*, *ganza* *grus*, *lena* *gallina*. **Polema** hoc est figurata, quae tractat de superioribus ut *allipha* pro *anima*, *spiridon* pro *spiritu*, *nepote* pro uirtutibus supernis, *sanamia* pro unitate dei alti.
 
----
-
 ## II. FRAGMENTUM MONTEPESSULANUM
 
 ### DIFFERENTIAE SERMONUM EX EPITOMIS VIRGILII.
@@ -30,8 +28,6 @@ Dicunt etiam quod alia sit *plebs* alius *populus*. *Plebs* enim haec erit, quae
 
 *Consumptio* ad defectionem, *consummatio* uero ad perfectionem pertinet.
 
----
-
 ### EX EPITOMA IIII ET V.
 
 *Tenebra* cum dicitur quaedam in die ferrugo id est caligo accipitur et excepto accusatiuo singulari per omnes casus declinatur. At *tenebrae* densissimae profundissimaeque noctium obscuritates sunt. *Sol* in utroque numero flecti non prohibetur sed singulari numero *sol* ipsum luminare erit, at *soles* ipsos dies nominamus, in quibus sol totum inluminat polum. Nonnulli tamen ueteres ipsa carmina *soles* nominauere sicut Oratius in principio cuiusdam uoluminis taliter exorsus est: *soles meos omni ecclesiae uestrae commendo*.
@@ -42,21 +38,15 @@ Sunt multa nomina quae duplici declinatione gaudent ut *materies* *materia*, *te
 
 Inter *operationem* et *opus* et *operam* hoc interest quam *operatio* singulorum est, *opus* generale est omni officio; *opera* autem singulari numero laboriosa sollicitudo est quae praecipue animam cruciat.
 
----
-
 ### EX EPITOMA VI.
 
 Inter nomen et pronomen hoc interest quod pronomen comparatione carens personam habet ut *ego tu ille*; nomen autem persona abiecta comparationem recipit ut *carus carior carissimus*. Legimus flecti *mei* uel *mis* sed *mis* dicitur nisi de ea re quam mihi ab aliquo repromissam spero euenturam, *mei* autem de ea re quam ad praesens possideo.
-
----
 
 ### EX EPITOMA XI.
 
 Quid interest inter *uerbum* et *sermonem* et *sententiam* et *loquelam* *orationemque*. *Uerbum* est omne quod lingua profertur et uoce. *Sermo* autem cuius nomen ex duobus uerbis compositum est hoc est *serendo* et *monendo* comptior ac diligentior. *Sententia* uero quae sensu concipitur. Porro *loquela* est quoniam cum quadam eloquentia dictionis ordo protexitur. *Oratio* est quando usque ad manuum artem describendi orat prius sermo praeueniat.
 
 In IIII epitoma. Male quidam *loquelas* in elocutione intelligi uolunt cuius *loquelae* per *-e-* et *-l-* unum scribendae ad perfectam pertinent eloquutionem.
-
----
 
 ### In VIII.
 
@@ -70,13 +60,9 @@ In IIII epitoma. Male quidam *loquelas* in elocutione intelligi uolunt cuius *lo
 
 *Pono* simpliciter aliquid statuens. *Dispono* aliquid operis inpensioris uel consilii facturus. Est etiam *disponere* foederis ineundi, *propono* nonnumquam ad interrogandum pertinet, *appono* adiectionis est. *Inpono* insinuendi est, *superpono* autem aliquem censum uel laborem cuicumque indicens. *Propono* aliquid praeferens sic et *antepono*. Nam *postpono* alias inferius iudicans. *Compono* orandi aut eloquii aut artificii est. *Sepono* separandi, *suppono* aliquid subtus inducens. *Depono* labefactandi est uel uita excedendi.
 
----
-
 ### EX EGLOGA X.
 
 Inter *uerum* et *uero* duae sunt distantiae: una quia *uerum* praepositiui ordinis est, *uero* subiunctiui; alia quia *uerum* causaliter pro *tamen* habetur, *uero* expletionem suae tantum stationis accipitur. Frequenter causales pro rationalibus et copulatiuae pro causalibus poni solent; sicut Cicero *uos uicistis et dii uos iuuerunt*. *Quoniam* pro *tamen* ponitur. Sicut Donatiuas praetorius sic fatus est *quamquam me accusent, quoniam ego auctoritate fidens omnium probra temno*, hoc est *omnia tamen temno*. *Quoniam* si duo uerba circa se habeat subiunctum priori faciat Sulpicio scribente *iurabant quoniam debellabant*, hic est ordo *ideo debellabant quoniam iurabant*.
-
----
 
 ## III. FRAGMENTUM MEDIOLANENSE
 

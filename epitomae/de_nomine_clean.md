@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## V. DE NOMINE
+# V. DE NOMINE
 
 De nomine breuiariam epitomam edicturus erogare prius debeo quaerimonantibus, qua diuitia nomen omnibus partibus latinitatis praelatum sit, cum in hibonorum elocutione et conpossitione primatum estimatur uerbum. Super hoc Aeneas X libros edidit, ex quibus ego unum tantum sumere oportunum puto. Quassum nomen inquit secundum sensum principium est, non secundum appellationem. Cum enim nascitur homo, antequam rem aliquam agat uel discat uel sciat, nomen illi inditur. Nomen ergo principalis pars latinitatis est. Cuius qualitatis uirim, quae prima illi accidit, tractare temptabo.
 

@@ -1,8 +1,4 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### VII. ON THE VERB
-
----
+# VII. ON THE VERB
 
 I remember that when I was a young man devoted to scholastic studies, I was present one day at a gathering of grammarians, who, no fewer than thirty assembled together, sought many things in composing the praise and ornament of the arts, and all of them concluded this: that nothing was more useful and suitable for making the composition of testimonies than that a complete exposition of the verb be worthily understood. By whose dispensation and judgment the state of Latinity is both perfected and arises—for all assert that the verb is the principal part of speech. For although it allows the noun to come before it in order, nevertheless in the arrangement of cases it holds the principate; to which the troops of adverbs and conjunctions have given all their right.
 
@@ -59,8 +55,6 @@ There are furthermore verbs which, contrary to customary Latinity, either have s
 There are also others which are most difficult in declension—such as *fio fis fit*, although the second person does not please many. Imperfect *fiebam*, perfect *fui*, pluperfect *fueram*, future *fiam fies fiet*; imperative *fiat fiamus*, future *fito fiat*. The optative mood is declined by many as *forem -res -ret*, by some as *fierem*; and it has the passive verb *fior firis fitur* and so forth; *fiebar fitus sum*, future *fiar*; imperative *fiere* and so forth; infinitive *fieri fitum esse* or *fuisse*; participles *fitus fiendus*. But this verb is unknown to many.
 
 There is also another verb quite difficult—such as *sum*, which does not have an imperfect past nor a perfect except pluperfect *eram eras erat*, and in the future *ero eris erit*, and in the imperative mood in the future tense *esto sit simus estote sint*; optative mood *utinam essem esses esset essemus essetis essent*, future *utinam sim sis sit*; subjunctive *cum sim sis sit*, pluperfect *cum essem*, future *cum ero*; infinitive *esse* or *fuisse*. On account of the brevity of this verb, the aforesaid verb *fio* is joined to it as if in a further manner, so that what is lacking in the one may be supplied in the other.
-
----
 
 ## TRANSLATOR'S NOTES
 

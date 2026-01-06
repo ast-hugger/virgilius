@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## II. DE LITERA
+# II. DE LITERA
 
 Litera est uelut quaedam legendi natiuitas, unde et eius incrementa infantuli e matris utero prorumpentis aetatibus meum Aeneam aequiperauisse memini. Ut enim infans dicitur qui loqui nescit, et paruulus, cum parua gressuum molimina nititur inprimere, et puer quando pubescit, adulescens autem cum proceritate corporis adulescit, iuuenis uero cum iuuentute adulta coiugis armis ceterisque liberalibus studiis dignus fit, at uir cum omnium sensuum consiliorumque uirtutem nanciscitur: ita etiam litera ab ipsis etiam cerae caracteribus usque ad quassorum conpossitionem hosce ordines directat: siquidem infans appellatur, cum arte non sonet, hiis dumtaxat, quae caraxandis per ceras gammulis eisdem indicent, paruula uero est cum syllabarum conglutine paulatim gradiatur, puerula cum pedum mensuris crescat, adulescentula cum poetica metra per uersuum carminula soffat, at iuuencula cum casuum verborumque quandam intellegentiam capissat, uirgo autem cum quassorum, ut dixi, conpossitionem plenissime perdoceat.
 

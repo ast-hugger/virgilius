@@ -1,8 +1,4 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### IV. ON METERS
-
----
+# IV. ON METERS
 
 The composition of meters is indeed manifold; for not all verses look to the same order, nature, number, and end. Nevertheless, every one of those who sing should know this one thing: that meters are words (*fona*) in whatever measure they may be. "Meter" (*metrum*) takes its name from "measure" (*meta*), and its feet are so called as being certain halves of words. Since these have been separated by poets out of the necessity of singing to such a degree that, with the final part of one word transferred to another, no word remains intact, for this reason no meter can be found that is plain. Many melodies of meters, however, the schools of poets and orators make known according to the will of their practitioners. For some are set forth as prose, some as lined, some also as middle-length, and not a few as quite extended; of which we shall expound a few for your benefit.
 
@@ -145,8 +141,6 @@ Not undeservedly, therefore, did our teachers, and especially Sulpita and Istriu
 Having run through all these things, though by another route, let us return to our purpose—that is, to the preparation of meters, as far as the end. Every verse of six or seven measures is rhetorical; but the trimeter, tetrameter, and pentameter is poetic. Concerning Sapphic and heroic verse-meter, I recall having written sufficiently in a certain letter which I sent to Donatus at Rome among twelve. I fear, therefore, that if I repeat these same things, I may begin to be considered a tedious writer rather than a careful teacher.
 
 Concerning Greek meters, however, whose nature is dissimilar and far different, I think it unnecessary to discuss anything here, since I am producing a Latin work. But above all, these three things are necessary for every teacher wishing to compose songs: first, that having knowledge of the letters to be written, he depict the modes and measures of each letter and syllable, and not mix verse with verse or meter with meter, lest his own or his students' art, though well composed, confer no profit on readers through ignorance of writing. Then, that he not be deceived in the parts of speech and in Roman truth, lest what he thought he had composed eloquently, through ignorance of Latin truth, acquire laughter instead of praise. Third, that in his songs he render each verse to its own right, lest, as King Alexander of Macedon boldly reproached a certain person singing praises to him, he be by his own fault a darkener of precious pearls.
-
----
 
 ## TRANSLATOR'S NOTES
 

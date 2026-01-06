@@ -1,10 +1,6 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### V. ON THE NOUN
+# V. ON THE NOUN
 
 *[Translator's note: Latin* nomen *encompasses both what English distinguishes as "nouns" and "adjectives"—the substantive and the adjectival. Latin grammarians recognized this distinction (*nomen substantiuum* vs. *nomen adiectum*), but treated both as species of a single part of speech. This chapter accordingly discusses diminutives, derivatives, comparison, and gender—categories applying to adjectives as much as nouns. Virgilius treats the* nomen *as the "principal part of Latinity," privileging it over the verb—a position he defends at length. The chapter is also notable for containing the most personal reminiscences of Virgilius's teacher Aeneas.]*
-
----
 
 Being about to publish a brief epitome on the noun, I must first pay out to those complaining why the noun should be preferred to all parts of Latinity, when in the speaking and composition of the *hiboni* the verb is esteemed to hold the primacy. On this matter Aeneas published ten books, from which I think it opportune to take but one point. "Why is it," he says, "that the noun is the beginning according to sense, not according to appellation? For when a human being is born, before he does or learns or knows anything, a name is given to him." The noun, therefore, is the principal part of Latinity. I shall attempt to treat the force of its quality, which first belongs to it.
 
@@ -69,8 +65,6 @@ If, however, they have come from the feminine gender, they will have three gende
 Between *operatio*, *opus*, and *opera* there is this difference: that *operatio* belongs to signs, *opus* is general for every office, but *opera* in the singular number is laborious care, which especially tortures the soul. Some think that *locus* is of masculine gender and *loca* of neuter; the authority of reading does not agree with them. For we often find *locus* in masculine gender, which has *locos* in the plural, and in neuter gender *locum*, which makes *loca*; so also *iocus* and in the plural *ioci*; likewise *iocum* makes *ioca*. *Regia* will be the hall of a king; *regnum* is in the substance itself.
 
 There are cases of extraordinary declension—such as *opia opiae*, and in the plural *opes*. But in compounds of the figure, both cases remain whole in their state—that is, *inopia* and *inops*, *bonus* and *bonis*. Both are found in their own declension, as Lucanus says: *bones uiros urbs dedit Sicilia* (Sicily the city gave good men); and again Serenus: *sanctem deorum cultorem quis non laudabit* (who will not praise the holy worshipper of the gods?). Likewise: *con eundem perfectem in cunctis oportet crescere uirum* (with him the perfect man in all things ought to grow). We should know, therefore, that these things are somewhat rare; the teachers set them down for this reason—not because they wished to harm their hearers, but to benefit them, so that when we see these things written in their works, we may have them as familiar and known in use.
-
----
 
 ## TRANSLATOR'S NOTES
 

@@ -1,6 +1,4 @@
-# VIRGILII MARONIS EPITOMAE
-
-## XIV. DE COGNOMINATIONIBUS NOMINUM ATQUE VERBORUM
+# XIV. DE COGNOMINATIONIBUS NOMINUM ATQUE VERBORUM
 
 Memini esse me a Donato, meo discente, uestro municipe hesterno rogatum anno, ut unde *celum* dictum sit aperirem: cui respondi non illius temporis fuisse id operis inpendere mente. Corpori nominum festinati id temporis uacare non potui, nunc uestrae dilectioni largibor, alia superadditurus.
 

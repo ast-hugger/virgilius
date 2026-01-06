@@ -1,10 +1,6 @@
-# VIRGILIUS MARO GRAMMATICUS
-## EPITOMAE
-### VI. ON THE PRONOUN
+# VI. ON THE PRONOUN
 
 *[Translator's note: Virgilius treats the pronoun as "subservient" to the noun, continuing the hierarchy established in the previous chapter. The chapter is notable for its extensive catalog of defective and invented pronouns, its distinction between pronouns and articles, and its concluding teachings from Aeneas on word order.]*
-
----
 
 We have rendered as we could in the preceding epitome an account to those requiring it, explaining why we preferred the noun to the verb. Now another kind of question looms: why also the pronoun should precede the verb, when the verb is the distinguished one of all the parts. To these the answer must be given in this way: that in the division of all the parts of speech, some have said there are eight parts, while others, diminishing the same number, have thought that the noun and pronoun should be reduced into the same part. Also lumping together the verb and participle into one, they said it was absurd to separate the participle from the verb just as a limb from a body. They also thought that adverbs and conjunctions were one part, setting aside the preposition and interjection, and thus it was that instead of eight parts they counted five. By this reasoning, therefore, they were unwilling to separate the pronoun from the noun, just as associates from a king.
 
@@ -67,8 +63,6 @@ and again:
 > (that one, powerful, kindles the full moon of spirit into the calm of light)
 
 But let these things about Aeneas suffice, and at the same time let an end be given here to the treatment of the pronoun, as we hasten to undertake the explanation of the verb.
-
----
 
 ## TRANSLATOR'S NOTES
 
